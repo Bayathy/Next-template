@@ -1,6 +1,6 @@
 import Head from "next/head";
 import type { NextPage } from "next";
-import tw, { css } from "twin.macro";
+import tw from "twin.macro";
 import GlobalStyles from "../styles/global-styles";
 
 const Home: NextPage = () => {
